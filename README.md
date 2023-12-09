@@ -1,1 +1,2 @@
-This project is to demosntrate anisha how to use github.
+This project is to demosntrate anisha to use github.
+few changes.
